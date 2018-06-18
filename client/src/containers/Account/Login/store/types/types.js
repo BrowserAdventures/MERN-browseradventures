@@ -1,0 +1,10 @@
+
+const types =
+{
+    USER_INPUT: 'USER_INPUT',
+    LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+    LOGIN_ERRORS: 'LOGIN_ERRORS',
+    SET_CURRENT_USER: 'SET_CURRENT_USER'
+}
+
+export default types

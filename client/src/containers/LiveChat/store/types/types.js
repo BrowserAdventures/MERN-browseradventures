@@ -1,0 +1,10 @@
+
+const types =
+{
+    USER_INPUT: 'USER_INPUT',
+    CLEAR_USER_INPUT: 'CLEAR_USER_INPUT',
+    UPDATE_MESSAGES: 'UPDATE_MESSAGES',
+    CHANGE_MODAL_STATE: 'CHANGE_MODAL_STATE'
+}
+
+export default types
